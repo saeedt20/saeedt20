@@ -1,6 +1,62 @@
-# 💫 About Me:
-Hi!  I'm Saeed, a IT guy now want to be Web Developer, passionate about creating a creative UI and interactive experiences.<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on projects, technical writing gigs<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 You can reach me at email down below or Signal saeeddot.01<br><br>⚡ Fun fact I also love Cyber Security
+# **💫 Welcome to My GitHub Profile**  
+**Hi, I'm Saeed** — A tech enthusiast transitioning into **web development**, driven by a passion for crafting intuitive interfaces and secure, impactful digital experiences.  
 
+---
+
+### 🚀 **About Me**  
+I bridge **IT expertise** and modern web development to build resilient, user-centric applications. With a foundation in networking, cybersecurity, and system administration, I prioritize security and performance while designing engaging digital solutions. My journey spans:  
+- **15+ years** of hands-on tech exploration, starting with Windows XP at age 13.  
+- A **Bachelor’s degree in Computer Software** and professional experience across hardware/software domains.  
+- Transitioning into web development to merge creativity with technical precision.  
+
+I thrive on continuous learning, leveraging tools like **React**, **Node.js**, and modern frameworks to solve real-world problems. My goal? To deliver solutions that exceed user expectations and drive business success.  
+
+---
+
+### 💡 **Technical Proficiencies**  
+**Web Development**  
+- Frontend: Responsive UI/UX design, HTML/CSS, JavaScript, React  
+- Backend: Node.js, RESTful APIs, database integration  
+- Tools: Git, VS Code, Figma, Webpack  
+
+**IT & Networking**  
+- Windows/Linux administration (PowerShell, Bash scripting, log analysis)  
+- Network configuration (Cisco, OpenWRT, secure wireless setups)  
+- Android device management and troubleshooting  
+
+**Cybersecurity Practices**  
+- Hardening systems with 2FA, hardware tokens (YubiKey), and password managers  
+- Security-first development: encryption, vulnerability mitigation  
+
+---
+
+### 🛠️ **Current Focus**  
+- Mastering full-stack development with **MERN/MEAN stacks**.  
+- Exploring DevOps practices (CI/CD pipelines, Docker).  
+- Contributing to open-source projects that prioritize accessibility and security.  
+
+---
+
+### 🌱 **My Tech Journey**  
+My fascination with technology began with disassembling PCs and installing Linux distros as a teen. Over the years, I’ve:  
+- Automated workflows with **PowerShell** for enterprise environments.  
+- Built secure LAN/WAN networks for small businesses.  
+- Advocated for digital rights by educating users on privacy tools (e.g., VPNs, encrypted messaging).  
+
+Now, I channel this experience into web development, ensuring every project balances sleek design with robust security.  
+
+---
+
+### 📫 **Let’s Connect!**  
+I’m eager to collaborate on innovative projects or discuss tech trends. Reach out via:  
+- [LinkedIn](#) | [Portfolio](#) | [Email](#)  
+
+*"Technology is best when it brings people together."* – Let’s build something meaningful!  
+
+---  
+🔒 *Committed to ethical tech, open-source values, and lifelong learning.*  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedt20&show_icons=true&theme=radical)](https://github.com/saeedt20)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dizkdl1r@anonaddy.com) 
@@ -25,7 +81,6 @@ Hi!  I'm Saeed, a IT guy now want to be Web Developer, passionate about creating
 [![](https://visitcount.itsvg.in/api?id=saeedt20&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saeedt20) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saiedtaherig) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/saeedt20) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saeedt20) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saeedt20)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saeedt20) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saiedtaherig) 
