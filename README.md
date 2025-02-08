@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there  I'm Saeed, a IT guy now want to be Web Developer, passionate about creating a creative UI and interactive experiences.<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on projects, technical writing gigs<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 You can reach me at email down below or Signal saeeddot.01<br><br>⚡ Fun fact I also love Cyber Security
+Hi!  I'm Saeed, a IT guy now want to be Web Developer, passionate about creating a creative UI and interactive experiences.<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on projects, technical writing gigs<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 You can reach me at email down below or Signal saeeddot.01<br><br>⚡ Fun fact I also love Cyber Security
 
 
 ## 🌐 Socials:
