@@ -55,10 +55,7 @@ I’m eager to collaborate on innovative projects or discuss tech trends. Reach 
 
 ---  
 🔒 *Committed to ethical tech, open-source values, and lifelong learning.*  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedt20&show_icons=true&theme=radical)](https://github.com/saeedt20)
-
-## 🌐 Socials:
+## 🌐 Email Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dizkdl1r@anonaddy.com) 
 
 # 💻 Tech Stack:
