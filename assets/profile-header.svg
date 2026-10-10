@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title description">
+  <title id="title">Saeed Taheri — IT, Linux and practical automation</title>
+  <desc id="description">An editorial header in ivory and deep ink, with a terminal and connected nodes representing systems and automation.</desc>
+  <rect width="1000" height="240" rx="8" fill="#f0efe9"/>
+  <path d="M42 32H958M42 208H958" stroke="#d2d4c9"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#30372d">
+    <text x="44" y="62" font-size="11" letter-spacing="2.2">SYSTEMS / AUTOMATION / EVERYDAY TOOLS</text>
+    <text x="42" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="69" letter-spacing="-2.5">Saeed <tspan font-style="italic">Taheri.</tspan></text>
+    <text x="44" y="178" font-size="14" fill="#59634f">IT, Linux &amp; practical automation</text>
+  </g>
+  <g fill="none" stroke="#bac3ad">
+    <path d="M628 46V194M688 166H770V84H924M820 84V160H936" stroke-width="1.5"/>
+    <circle cx="770" cy="166" r="4" fill="#f0efe9"/>
+    <circle cx="820" cy="84" r="4" fill="#f0efe9"/>
+    <circle cx="936" cy="160" r="5" fill="#a6523b" stroke="#a6523b"/>
+    <circle cx="924" cy="84" r="5" fill="#30372d" stroke="#30372d"/>
+  </g>
+  <rect x="680" y="50" width="142" height="99" rx="7" fill="#30372d"/>
+  <path d="M680 74H822" stroke="#65715a"/>
+  <g fill="#afbb9f"><circle cx="691" cy="62" r="2"/><circle cx="699" cy="62" r="2"/><circle cx="707" cy="62" r="2"/></g>
+  <path d="M695 94L703 101L695 108M712 109H723" fill="none" stroke="#f0efe9" stroke-width="2"/>
+  <path d="M736 96H803M736 104H784M695 126H760" stroke="#9cae84" stroke-width="2"/>
+  <rect x="843" y="117" width="63" height="64" rx="7" fill="#e1e5d8" stroke="#bec8b1"/>
+  <path d="M859 148H890M875 132V163" stroke="#667950" stroke-width="1.5"/>
+  <circle cx="875" cy="148" r="9" fill="#30372d"/>
+  <circle cx="875" cy="148" r="3" fill="#e1e5d8"/>
+  <text x="686" y="194" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.2" fill="#68725e">SAEEDT20 / BUILD &amp; EXPLORE</text>
+</svg>

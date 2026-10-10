@@ -1,67 +1,64 @@
-# Saeed Taheri
+![Saeed Taheri — IT, Linux and practical automation](assets/profile-header.svg)
 
-**IT & Linux · AI & Automation Enthusiast · Python & Web Development**
+**IT professional · AI & automation enthusiast**
 
-I’m Saeed, an IT professional with a background in networking, system administration, and security. I’ve spent more than 15 years exploring technology, including around **eight years using Linux**. My current desktop is **Linux Mint 22.3 with Xfce**.
+I’m based in **Bangkok**. I work with Linux, Python, and AI agents to build desktop tools and automate everyday tasks, while developing my web skills.
 
-These days, I work with Python, explore AI tools and agents, and build practical automations while continuing to develop my web skills. I’m available for **freelance projects** and enjoy collaborating on **personal and open-source projects**.
+**[Website](https://saeedt.ir/) · [Email](mailto:info@saeedt.ir)**
 
-[Website](https://saeedt.ir/) · [Email](mailto:info@saeedt.ir)
+> Available for freelance work in IT/Linux, AI automation, and web development, and for personal or open-source collaboration.
 
-## What I work on
-
-| Area                   | Focus                                                                              |
-| ---------------------- | ---------------------------------------------------------------------------------- |
-| **IT & Linux**         | System troubleshooting, log analysis, administration, and networking               |
-| **AI & automation**    | AI agents, Telegram bots, email replies, scheduling, and website support workflows |
-| **Python & web**       | Python tools and automation, with a continuing focus on web development            |
-| **Security & privacy** | Investigating security issues, system hardening, and privacy-conscious tools       |
-
-I use **Codex and Claude** to help investigate errors, troubleshoot systems, and work through security issues. When a suggested approach falls short, I examine system logs and work through the problem myself.
-
-My agent and automation workflows include:
-
-- Telegram-based agents for everyday tasks.
-- Automatic email replies and scheduled actions.
-- Cron jobs for GitHub-related tasks.
-- Automated support on websites.
-
-I follow AI developments and experiment with tools such as **Hermes** and **9router**, with an interest in how they can make everyday workflows more useful.
-
-## Selected projects
+## Featured work
 
 ### [TallyDesklet](https://github.com/saeedt20/tallydesklet)
 
-A native Linux desktop widget for CPU, memory, disk, network speed, and daily and weekly data usage. Built for **Xfce on X11** with **Python, GTK 3, Cairo, and psutil**. Measurements stay on the user’s computer.
+A compact Linux desktop widget that brings CPU, memory, disk, network speed, and daily and weekly data usage into one view. Built for **Xfce on X11**; measurements stay on your computer.
 
-[Source and documentation](https://github.com/saeedt20/tallydesklet) · [Latest release](https://github.com/saeedt20/tallydesklet/releases/latest)
+`Python` · `GTK 3` · `Cairo` · `psutil`
 
-### [GeminiShop](https://t.me/GeminiRedeemBot)
+[Source & documentation](https://github.com/saeedt20/tallydesklet) · [Download](https://github.com/saeedt20/tallydesklet/releases/latest)
 
-A curated marketplace for subscriptions and digital keys. I bring trusted sellers together in one place to help customers choose and buy with more confidence.
+<details>
+<summary>View the interface</summary>
 
-### [NumberFlare](https://t.me/NumberFlareBot)
+<p><img src="assets/tallydesklet-dark.webp" width="320" alt="TallyDesklet dark interface showing illustrative example data"></p>
 
-A virtual-number storefront offering cryptocurrency and credit-card payment options.
+_Actual GTK interface with illustrative example data._
 
-### [Personal website](https://saeedt.ir/)
+</details>
 
-My bilingual portfolio in **Persian and English**, presenting my background, projects, and ways to collaborate.
+### More projects
 
-## Background & values
+| Project                                        | What it does                                                                           |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **[GeminiShop](https://t.me/GeminiRedeemBot)** | Brings trusted subscription and digital-key sellers together in a curated marketplace. |
+| **[NumberFlare](https://t.me/NumberFlareBot)** | A virtual-number storefront with cryptocurrency and credit-card payments.              |
+| **[Personal website](https://saeedt.ir/)**     | My portfolio, background, and projects in Persian and English.                         |
 
-I hold a **bachelor’s degree in Computer Software**. My interests connect systems and networking with AI, automation, and web development. I value continuous learning, privacy, and open source, and enjoy making tools that solve everyday problems.
+## What I work on
 
-## Work with me
+- **Linux & systems:** troubleshooting, system log analysis, networking, and security issues.
+- **Agents & automation:** Telegram agents, email replies, scheduled GitHub tasks, cron jobs, and website support.
+- **Python & the web:** useful tools and workflow automation, alongside continued learning in web development.
 
-I’m open to freelance work across **IT/Linux, AI automation, and web development**, as well as collaboration on personal and open-source projects.
+I use Codex and Claude in my troubleshooting workflow and investigate system logs when a suggested fix falls short. I follow AI developments and explore tools such as Hermes and 9router.
 
-- **Website:** [saeedt.ir](https://saeedt.ir/)
-- **Email:** [info@saeedt.ir](mailto:info@saeedt.ir)
-- **GitHub:** [saeedt20](https://github.com/saeedt20)
+## Background
 
-سعید طاهری هستم؛ با پیشینه‌ای در فناوری اطلاعات، شبکه و امنیت، حدود ۸ سال تجربهٔ لینوکس، و علاقه به پایتون، هوش مصنوعی، اتوماسیون و وب. برای همکاری فریلنس و پروژه‌های شخصی و متن‌باز آماده‌ام.
+- Around **8 years with Linux**; currently **Linux Mint 22.3 / Xfce**.
+- **15 years exploring technology**, with a background in IT, systems, and networking.
+- **Bachelor’s degree in Computer Software**.
+- I value continuous learning, privacy, and open source.
 
----
+<details>
+<summary>فارسی / معرفی کوتاه</summary>
 
-Support my work: [Ko-fi](https://ko-fi.com/saeedt20) · [Buy Me a Coffee](https://buymeacoffee.com/learn_thai_reels) · [PayPal](https://paypal.me/saiedtaherig)
+<div dir="rtl">
+
+سعید طاهری هستم؛ ساکن بانکوک، با پیشینه‌ای در فناوری اطلاعات، شبکه و امنیت و حدود ۸ سال تجربهٔ لینوکس. با پایتون، عامل‌های هوش مصنوعی و اتوماسیون کار می‌کنم و یادگیری توسعهٔ وب را ادامه می‌دهم. برای پروژه‌های فریلنس و همکاری شخصی و متن‌باز آماده‌ام.
+
+[وب‌سایت](https://saeedt.ir/) · [ایمیل](mailto:info@saeedt.ir)
+
+</div>
+
+</details>
